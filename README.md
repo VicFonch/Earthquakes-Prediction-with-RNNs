@@ -1,5 +1,3 @@
-# Earthquakes-Prediction-with-RNNs
-
 # 🌎Earthquakes Prediction🌍with RNNs🌏
 
 ### Author: Victor Manuel Fonte Chavez
